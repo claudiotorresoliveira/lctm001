@@ -1,0 +1,221 @@
+Produto	 Categoria
+	
+chopp do rei	 cervejas
+	
+caipirinha tangeri	 bebidas
+	
+papas locas (batata)	 comida
+	
+gin tonic tradicio	 bebidas
+	
+aranccini carangue	 comida
+	
+choripan loca summe	 comida
+	
+pasteis queijo rei	 comida
+	
+crispy chicken bur	 comida
+	
+coca cola lt norma	 bebidas não alcoólicas
+	
+jarra sangria loca	 bebidas
+	
+ribs executivo	 comida
+	
+caldo do dia hp	 comida
+	
+pasteis queijo coa	 comida
+	
+sangria loca summe	 bebidas
+	
+burrata com jamon	 comida
+	
+sanduba de pernil	 comida
+	
+churros doce de le	 comida
+	
+dose cachaça matut	 bebidas
+	
+dose vodka aviator	 bebidas
+	
+pirulito barriga h	comida
+	
+pirulito camarão h	comida
+	
+caipirinha especia	 bebidas
+	
+margarita de moran	 bebidas
+	
+brie ao forno com	 comida
+	
+item extra	 diversos
+	
+praya puro malte l	 cervejas
+	
+tabua de frutos do	 comida
+	
+dose whisky 12 anos	 bebidas
+	
+sra. garibald	 cervejas
+	
+camarões fritos co	 comida
+	
+stella artois sem	 cervejas
+	
+halumi de coalho f	 comida
+	
+praya witbier long	 cervejas
+	
+pasteis queijo rei	 comida
+	
+brownie de chocolat	 comida
+	
+molho extra vermel	 comida
+	
+caipirosca c absol	 bebidas
+	
+dose jack daniels	 bebidas
+	
+porção extra	 comida
+	
+dose cachaça espec	 bebidas
+	
+cortesia anivers.	 diversos
+	
+caipirosca f verme	 bebidas
+	
+pasteis queijo coa	 comida
+	
+halumi de coalho h	 comida
+	
+estrella galicia l	 cervejas
+	
+fava com camarão h	 comida
+	
+castelo de pias br	 bebidas
+	
+casas del maipo ca	 bebidas
+	
+risotinho de alho p	 comida
+	
+taça vinho loca summ	 bebidas
+	
+tilapia executivo	 comida
+	
+mar salgado rose 2	 bebidas
+	
+caipirinha f verme	 bebidas
+	
+cachaça sao paulo	 bebidas
+	
+vb forrozeiro crea	 cervejas
+	
+jarra sangria f.ve	 bebidas
+	
+moco fidalgo branc	 bebidas
+	
+loca citrus hp	 bebidas não alcoólicas
+	
+soldado	 SOUVENIR
+	
+whiskey and cold b	 bebidas
+	
+1913 sparkling ros	 bebidas
+	
+sangria f.vermelha	 bebidas
+	
+vizar branco verde	 bebidas
+	
+churros executivo	 comida
+	
+colorado ribeirao	 cervejas
+	
+casas del maipo ch	 bebidas
+	
+dose de bacardi li	 bebidas
+	
+maray cabernet	 bebidas
+	
+1913 sparkling bru	 bebidas
+	
+tannat toscanini	 bebidas
+	
+chac chac	 diversos
+	
+salada grega de mel	 comida
+	
+cachaça sao paulo	 bebidas
+	
+ribera cabernet sa	 bebidas
+	
+castelo de pias ti	 bebidas
+	
+esperança hope	 bebidas
+	
+filoco branco	 bebidas
+	
+love 1/2 garrafa	 bebidas
+	
+4 estações viognie	 bebidas
+	
+jarra vb sour	 bebidas
+	
+casas del toqui	 bebidas
+	
+vinho nhoque fortu	 bebidas
+	
+secreto rosso	 bebidas
+	
+ciao bella chardpm	 bebidas
+	
+empanada combo	 comida
+	
+4 estações malbec	 bebidas
+	
+festivo malbec	 bebidas
+	
+empanada	 comida
+	
+monte da estrela	 bebidas
+	
+porta long neck lo	 SOUVENIR
+	
+norton malbec doc	 bebidas
+	
+ribera sauvignon b	 bebidas
+	
+coração obra prima	 comida
+	
+arroz costela exec	 comida
+	
+tierruca	 bebidas
+	
+wave espumante bru	 bebidas
+	
+garrafa whisky 12	 bebidas
+	
+sabicos branco ale	 cervejas
+	
+quinta da esperança	 bebidas
+	
+casas del maipo ro	 bebidas
+	
+alma jovem branco	 bebidas
+	
+carva ramires brut	 bebidas
+	
+chapeu	 SOUVENIR
+	
+hasso tinto	 bebidas
+	
+sol fa soul moscat	 bebidas
+	
+dadinhos de tapioca	 comida
+	
+4 estações rose 20	 bebidas
+	
+barril chopp	 cervejas
+	
+combo gim + to	 bebidas
+	
+dose ballantin's 1	 bebidas
